@@ -1,3 +1,13 @@
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/de6ec6da-87ec-4ba8-b6c0-54d4b2d05607" autoplay muted loop playsinline width="100%" style="border-radius: 8px;">
+  </video>
+</p>
+
+
+
+
+
 # Windows DPAPI C++ Cryptor
 
 A simple and lightweight C++ terminal application that securely encrypts and decrypts user messages locally using the Windows Data Protection API (DPAPI) and stores them in a binary file.
